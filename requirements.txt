@@ -6,3 +6,8 @@ langchain_community
 langserve
 uvicorn
 fastapi
+bs4
+pypdf
+langchain_text_splitters
+chromadb
+faiss-cpu
