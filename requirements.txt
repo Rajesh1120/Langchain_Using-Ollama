@@ -11,3 +11,6 @@ pypdf
 langchain_text_splitters
 chromadb
 faiss-cpu
+arxiv
+wikipedia
+langchainhub
